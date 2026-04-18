@@ -126,20 +126,16 @@ open_to: DevOps Roles, Internships, Cloud Projects
 </p>
 
 ---
-## 🏆 Trophies & Milestones
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suchith-K-git&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-</p>
 ---
 
 ## 🐍 Code Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suchith-K-git/Suchith-K-git/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Suchith-K-git/Suchith-K-git/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Suchith-K-git/Suchith-K-git/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omi100/Omi100/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omi100/Omi100/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Omi100/Omi100/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
