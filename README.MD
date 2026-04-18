@@ -32,20 +32,21 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" style="border-radius:16px;"/>
 
 ```yaml
-name: Omkar Ghadage
-role: DevOps Engineer
+name: Omkar
+role: DevOps Engineer (Fresher)
 location: India 🇮🇳
+education: MCA Graduate (2025)
 focus:
-  - Cloud-Native Infrastructure
-  - Security-First Pipelines
-  - Platform Engineering
-  - SRE & Observability
-philosophy: "Don't fix what breaks — design so it doesn't break"
+  - AWS Cloud Services
+  - Linux Administration
+  - CI/CD Basics
+  - Infrastructure Management
+philosophy: "Learn, Build, Automate, Improve"
 currently_learning:
-  - eBPF for deep system observability
-  - Multi-cluster Kubernetes federation
-  - AI-assisted infrastructure ops
-open_to: Collaborations, Cloud Projects, Open Source
+  - Docker
+  - Kubernetes (Basics)
+  - CI/CD Pipelines
+open_to: DevOps Roles, Internships, Cloud Projects
 ```
 
 <br clear="right"/>
