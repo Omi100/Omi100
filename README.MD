@@ -11,7 +11,7 @@
 
 <!-- BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Suchith-K-git/Suchith-K-git/main/Banner.jpg"
+  <img src="https://raw.githubusercontent.com/Omi100/Omi100/main/Banner.jpg"
        width="90%"
        style="border-radius:20px; box-shadow: 0 0 40px rgba(0, 255, 136, 0.4);" />
 </p>
